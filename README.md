@@ -29,8 +29,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 1. Clone this repo and open the `HelloWorld.ino` file with the Arduino IDE.
 
 ```
-git clone https://github.com/loganmarchione/m5stack-slack-status-updater.git
-cd m5stack-slack-status-updater/HelloWorld
+git clone https://github.com/loganmarchione/m5stack-core2-hello-world.git
+cd m5stack-core2-hello-world/HelloWorld
 ```
 
 2. Click `Upload` in the IDE and wait for the program to compile and upload. Your M5Stack Core2 should do the following:
