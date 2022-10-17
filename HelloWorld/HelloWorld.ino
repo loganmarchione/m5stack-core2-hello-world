@@ -3,10 +3,10 @@
 // variables - change these if needed
 /////////////////////////////////
 
-// 2500 to 3300
+// 2500 (dim) to 3300 (bright)
 int disp_volt = 2800;
 
-// 1 to 7
+// 1 (smallest) to 7 (biggest)
 int font_size = 2;
 
 /////////////////////////////////
